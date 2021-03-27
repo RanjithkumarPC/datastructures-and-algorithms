@@ -5,8 +5,8 @@ public class Search {
 	public static void main(String[] args) {
 		int input[] = {1,4,7,2,3};
 		int number = 10;
-		System.out.println("hello");
 		System.out.println(findSearchedIndex(input, number));
+		// lines
 	}
 	
 	public static int findSearchedIndex(int[] input, int number) {
