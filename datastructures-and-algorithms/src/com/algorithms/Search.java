@@ -6,7 +6,6 @@ public class Search {
 		int input[] = {1,4,7,2,3};
 		int number = 10;
 		System.out.println(findSearchedIndex(input, number));
-		// lines
 	}
 	
 	public static int findSearchedIndex(int[] input, int number) {
